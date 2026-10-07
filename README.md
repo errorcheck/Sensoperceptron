@@ -22,3 +22,27 @@ To edit this repository in MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+# SensoPerceptron
+
+Prototipo educativo desarrollado con **micro:bit** para explorar el sensado ambiental y la percepción humano máquina.
+
+## Objetivo
+
+Utilizar los sensores de la micro:bit para registrar variables del entorno, como **luz y temperatura**, y relacionarlas con la respuesta y percepción del usuario.
+
+## Estado del proyecto
+
+Prototipo inicial en desarrollo.  
+El código y las pruebas se irán actualizando a medida que avance el proyecto.
+
+## Tecnología
+
+Micro:bit  
+Microsoft MakeCode  
+TypeScript / Bloques
+
+## Autora
+
+© 2026 Sonia Alejandra Toledo  (Adabyte)
+Proyecto SensoPerceptron
