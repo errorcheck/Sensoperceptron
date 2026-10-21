@@ -40,7 +40,8 @@ El código y las pruebas se irán actualizando a medida que avance el proyecto.
 
 Micro:bit  
 Microsoft MakeCode  
-TypeScript / Bloques
+Programación por Bloques
+Makecode genera automáticamente main.ts por eso GitHub puede clasificar el repositorio como Typescript.
 
 ## Autora
 
